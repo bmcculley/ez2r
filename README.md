@@ -14,6 +14,7 @@ Download
 --------
 
 [Runnable jar file](http://bit.ly/1z8cGFe) (compiled using jdk 1.7)
+[Updated capitalization download](http://bit.ly/1soRdn4)
 
 Credits
 -------

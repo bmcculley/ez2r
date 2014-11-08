@@ -4,7 +4,7 @@
  * Created by: bmcculley
  * You can find the project at: http://bit.ly/1yglbND
  *
- * Java JFrame snagged from: http://bit.ly/113OSYf
+ * Java JFrame code snagged from: http://bit.ly/113OSYf
  * Original idea for password generation code from:
  * http://bit.ly/1u8999I
  *************************************************************************/

@@ -77,8 +77,13 @@ public class PWGen extends JFrame {
 
 		// generate the main part of the password
 		for (int i = 0;i < 2; i++) {
-			password += consonants.charAt( rndNum( consonants.length()-1 ) );
-			password += vowels.charAt( rndNum( vowels.length()-1 ) );
+			if (rndNum(5) % 2 == 0) {
+	          password += Character.toUpperCase( consonants.charAt( rndNum( consonants.length()-1 ) ) );
+	          password += vowels.charAt( rndNum( vowels.length()-1 ) );
+	        } else {
+	          password += consonants.charAt( rndNum( consonants.length()-1 ) );
+	          password += Character.toUpperCase( vowels.charAt( rndNum( vowels.length()-1 ) ) );
+	        }
 			password += all.charAt( rndNum( all.length()-1 ) );
 		}
 

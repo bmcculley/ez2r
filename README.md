@@ -13,7 +13,7 @@ Screenshot
 Download
 --------
 
-[Runnable jar file](#coming-soon)
+[Runnable jar file](http://bit.ly/1z8cGFe) (compiled using jdk 1.7)
 
 Credits
 -------
